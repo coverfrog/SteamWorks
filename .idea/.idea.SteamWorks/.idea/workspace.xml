@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50190c63-cc67-46ab-93ec-f0a5335b1de8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Linux.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Linux.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Linux.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Linux.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.MacOS.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.MacOS.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.MacOS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.MacOS.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win32.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win32.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win64.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win64.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/Facepunch.Steamworks.Win64.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/linux32.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/linux32/libsteam_api.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/linux32/libsteam_api.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/linux64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/linux64/libsteam_api.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/linux64/libsteam_api.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/osx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/osx/libsteam_api.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/osx/libsteam_api.bundle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/steam_api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/steam_api.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/steam_api.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/steam_api.lib.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/win64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/win64/steam_api64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/win64/steam_api64.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/win64/steam_api64.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/Facepunch/redistributable_bin/win64/steam_api64.lib.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacepunchTransport.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacepunchTransport.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/ReadOnlyAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/ReadOnlyAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/com.community.netcode.transport.facepunch.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/com.community.netcode.transport.facepunch.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2peb68zpzkV1IFYfErrY4HfEkSX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\monsterslab\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\monsterslab\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\monsterslab\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.25f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\SteamWorks -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\SteamWorks" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.25f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\SteamWorks -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\SteamWorks" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50190c63-cc67-46ab-93ec-f0a5335b1de8" name="Changes" comment="" />
+      <created>1733129309704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733129309704</updated>
+      <workItem from="1733129310887" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

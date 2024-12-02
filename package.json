@@ -1,11 +1,22 @@
 {
-  "name": "com.community.netcode.transport.facepunch",
-  "displayName": "Facepunch Transport for Netcode for GameObjects",
-  "version": "2.0.0",
-  "unity": "2019.4",
-  "description": "Facepunch Transport for Netcode for GameObjects",
-  "author": "Nico Thomas (Transport Adapter), Floris van Onna (Transport Adapter), Garry Newman (Author of Facepunch.Steamworks)",
-  "dependencies": {
-    "com.unity.netcode.gameobjects": "1.0.0-pre.4"
+  "name": "com.coverfrog.steamworks",
+  "version": "1.0.0",
+  "displayName": "Coverfrog SteamWorks",
+  "description": "Unity integration for Steamworks SDK with enhanced features and management",
+  "unity": "2020.3",
+  "keywords": [
+    "steam",
+    "steamworks",
+    "multiplayer",
+    "networking"
+  ],
+  "author": {
+    "name": "Coverfrog",
+    "email": "contact@coverfrog.com",
+    "url": "https://github.com/coverfrog/SteamWorks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coverfrog/SteamWorks.git"
   }
 }
