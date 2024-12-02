@@ -1,0 +1,22 @@
+{
+  "name": "com.coverfrog.steamworks",
+  "version": "1.0.0",
+  "displayName": "Coverfrog SteamWorks",
+  "description": "Unity integration for Steamworks SDK with enhanced features and management",
+  "unity": "2020.3",
+  "keywords": [
+    "steam",
+    "steamworks",
+    "multiplayer",
+    "networking"
+  ],
+  "author": {
+    "name": "Coverfrog",
+    "email": "contact@coverfrog.com",
+    "url": "https://github.com/coverfrog/SteamWorks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coverfrog/SteamWorks.git"
+  },
+}
